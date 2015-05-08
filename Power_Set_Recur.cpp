@@ -1,4 +1,4 @@
-*
+/*
 * Power_set.cpp
 * Find the set of all subsets in a set.
 *  Created on: May 8, 2015
